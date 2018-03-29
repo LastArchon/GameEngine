@@ -79,7 +79,7 @@ namespace Core
 		MainScene->draw();
 
 		//Fill the surface purple
-		//SDL_FillRect(screenSurface, NULL, SDL_MapRGB(screenSurface->format, 204, 0, 204));
+		SDL_FillRect(screenSurface, NULL, SDL_MapRGB(screenSurface->format, 204, 0, 204));
 
 		//Wait two seconds
 		//SDL_Delay(10000);
