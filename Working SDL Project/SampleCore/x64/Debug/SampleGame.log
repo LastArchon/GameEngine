@@ -1,0 +1,4 @@
+﻿  MainScene.cpp
+MainScene.obj : error LNK2001: unresolved external symbol "private: static class Core::SystemManager * Core::SystemManager::s_instance" (?s_instance@SystemManager@Core@@0PEAV12@EA)
+SampleCore.lib(Engine.obj) : error LNK2001: unresolved external symbol "private: static class Core::SystemManager * Core::SystemManager::s_instance" (?s_instance@SystemManager@Core@@0PEAV12@EA)
+C:\Users\elfro\Desktop\Working SDL Project\SampleCore\x64\Debug\SampleGame.exe : fatal error LNK1120: 1 unresolved externals
