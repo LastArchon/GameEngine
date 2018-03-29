@@ -1,1 +1,4 @@
 Yes im aware I spelt Inputs wrong, i realized a bit too late.
+Also, you can ignore those two other folders that are not in Working SDL Project, when i commited and pushed, the folder structure didnt follow along, 
+so i had to add them in manually, and I misplaced them, the project still works fine when i download the zip, it still requires that you set sample game as 
+a startup project but other than that all the functionality that i had workin is working.
